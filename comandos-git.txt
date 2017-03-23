@@ -1,0 +1,208 @@
+    1  cd Desktop
+    2  cd Shell+
+    3  cd Shell
+    4  vagrant up
+    5  vagrant ssh
+    6  vagrant up
+    7  vagrant ssh
+    8  cd Desktop/Shell/
+    9  vagrant up
+   10  vagrant up
+   11  vagrant ssh
+   12  cd Desktop/Shell/
+   13  vagrant up
+   14  ls
+   15  cd Desktop
+   16  ls
+   17  cd Shell/
+   18  vagrant up
+   19  vagrant up
+   20  vagrant ssh
+   21  exit
+   22  vagrant up
+   23  vagrant ssh
+   24  exit
+   25  cd Desktop/Shell/
+   26  vagrant up
+   27  vagrant ssh
+   28  exit
+   29  cd Desktop/Shell/
+   30  vagrant up
+   31  vagrant ssh
+   32  cd Desktop/Shell/
+   33  vagrant up
+   34  vagrant ssh
+   35  cd Desktop/Shell/
+   36  vagrant up
+   37  vagrant ssh
+   38  git config --global http.proxy http://proxy.lcc.uma.es:3128
+   39  git config --global http.proxy http://proxy.wifi.uma.es:3128
+   40  git config user.rachel
+   41  git config user.email rachelcr@uma.es
+   42  git clone umafactorial
+   43  git clone https://github.com/rachelcrosa/umafactorial.git
+   44  pwd
+   45  cd "C:\Users\Usuario\Desktop\INTRODUCCIÓN A LA INGENIERÍA DEL SOFTWARE\G3 PRACT\Práctica1"
+   46  git clone https://github.com/rachelcrosa/umafactorial.git
+   47  git config user.name rachel
+   48  cd umafactorial
+   49  ls -al
+   50  git config user.name rachel
+   51  git config user.name rachelcr@uma.es
+   52  mkdir factorial.java
+   53  git add factorial.java
+   54  git commit -m "implentacion inicial"
+   55  git config user.name rachel
+   56  git config user.email rachelcr@uma.es
+   57  git add factorial.java
+   58  git commit -m "implementacion inicial"
+   59  git add factorial.java
+   60  git commit -m "refactorizacion"
+   61  git checkout -b recursivo
+   62  git add factorial.java
+   63  git commit -m "implementacion recursiva"
+   64  git push origin recursivo
+   65  git checkout master
+   66  git add factorial.java
+   67  git commit -m "correccion numeros negativos"
+   68  git push origin master
+   69  git status
+   70  cd
+   71  pwd
+   72  cd "C:\Users\Usuario\Desktop\INTRODUCCIÓN A LA INGENIERÍA DEL SOFTWARE\G3 PRACT\Práctica1"
+   73  git clone https://github.com/rachelcrosa/umafactorial.git
+   74  cd umafactorial
+   75  git config user.name rachel
+   76  git config user.email rachelcr@uma.es
+   77  git add factorial.java
+   78  git commit -m "implementacion inicial"
+   79  git status
+   80  git add factorial.java
+   81  git commit -m "refactorizacion"
+   82  git push origin master
+   83  git checkout -b recursivo
+   84  git status
+   85  git add factorial.java
+   86  git commit -m "implementacion recursiva"
+   87  git push origin recursivo
+   88  git status
+   89  git log
+   90  git push recursivo origin
+   91  git push origin recursivo
+   92  git checkout master
+   93  git status
+   94  git add factorial.java
+   95  git commit -m "correccion numeros negativos"
+   96  git push origin master
+   97  git checkout recursivo
+   98  git status
+   99  git add factorial.java
+  100  git commit -m "optimizacion"
+  101  git checkout master
+  102  git merge recursivo
+  103  cd "C:\Users\Usuario\Desktop\INTRODUCCIÓN A LA INGENIERÍA DEL SOFTWARE\G3 PRACT\Práctica1"
+  104  git clone https://github.com/rachelcrosa/umafactorial.git
+  105  cd umafactorial
+  106  git config user.name rachel
+  107  git config user.name rachelcr@uma.es
+  108  cd "C:\Users\Usuario\Desktop\INTRODUCCIÓN A LA INGENIERÍA DEL SOFTWARE\G3 PRACT\Práctica1"
+  109  git clone 
+  110  cd "C:\Users\Usuario\Desktop\INTRODUCCIÓN A LA INGENIERÍA DEL SOFTWARE\G3 PRACT\Práctica1"
+  111  git clone https://github.com/rachelcrosa/umafactorial.git
+  112  cd umafactorial
+  113  git config user.name rachel
+  114  git config user.email rachelcr@uma.es
+  115  git add factorial.java
+  116  git commit -m "implementacion inicial"
+  117  git status
+  118  git add factorial.java
+  119  git commit -m "refactorizacion"
+  120  git push origin master
+  121  git checkout -b recursivo
+  122  git status
+  123  git add factorial.java
+  124  git commit -m "implementacion recursiva"
+  125  git push origin recursivo
+  126  git push origin recursivo
+  127  git checkout master
+  128  cd "C:\Users\Usuario\Desktop\INTRODUCCIÓN A LA INGENIERÍA DEL SOFTWARE\G3 PRACT\Práctica1"
+  129  git clone https://github.com/rachelcrosa/umafactorial.git
+  130  cd umafactorial
+  131  git config user.name rachel
+  132  git config user.email rachelcr@uma.es
+  133  git add factorial.java
+  134  git commit -m "implementacion inicial"
+  135  git status
+  136  git add factorial.java
+  137  git commit -m "refactorizacion"
+  138  git push origin master
+  139  git checkout -b recursivo
+  140  git status
+  141  git add factorial.java
+  142  git commit -m "implementacion recursiva"
+  143  git push origin recursivo
+  144  git checkout master
+  145  git status
+  146  git add factorial.java
+  147  git commit -m "correccion numeros negativos"
+  148  git push origin master
+  149  git checkout recursivo
+  150  git status
+  151  git add factorial.java
+  152  git commit -m "optimizacion"
+  153  cd "C:\Users\Usuario\Desktop\INTRODUCCIÓN A LA INGENIERÍA DEL SOFTWARE\G3 PRACT\Práctica1"
+  154  git clone https://github.com/rachelcrosa/umafactorial.git
+  155  cd umafactorial
+  156  git config user.name rachel
+  157  git config user.email rachelcr@uma.es
+  158  git add factorial.java
+  159  git commit -m "implementacion inicial"
+  160  git add factorial.java
+  161  git commit -m "refactorizacion"
+  162  git push origin master
+  163  git checkout -b recursivo
+  164  cd Desktop/
+  165  git clone https://github.com/rachelcrosa/umafactorial.git
+  166  cd umafactorial/
+  167  git config user.name rachel
+  168  git config user.email rachelcr@uma.es
+  169  git add factorial.java
+  170  git commit -m "implementacion inicial"
+  171  git log
+  172  git add factorial.java
+  173  git commit -m "refactorizacion"
+  174  git log
+  175  git push origin master
+  176  git checkout -b recursivo
+  177  git add factorial.java
+  178  git commit -m "implementacion recursiva"
+  179  git push origin recursivo
+  180  git checkout master
+  181  git add factorial.java
+  182  git commit -m "correccion numeros negativos"
+  183  git push origin master
+  184  git checkout recursivo
+  185  git add factorial.java
+  186  git commit -m "optimizacion"
+  187  git checkout master
+  188  git merge recursivo
+  189  git checkout -b refacIO
+  190  git add factorial.java
+  191  git commit -m "refactorizacion de metodo de entrada"
+  192  git stash
+  193  git stash
+  194  git checkout master
+  195  git add factorial.java
+  196  git commit -m "cambio de long a BigInteger"
+  197  git push origin master
+  198  git checkout refacIO 
+  199  git stash pop
+  200  git add factorial.java
+  201  git commit -m "refactorizacion de metodo de salida"
+  202  git checkout master
+  203  git merge refacIO
+  204  git checkout master
+  205  git add factorial.java
+  206  git commit -m "mezcla de rama refacIO"
+  207  git push origin master
+  208  history > comandos-git.txt
